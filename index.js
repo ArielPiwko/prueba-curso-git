@@ -3,6 +3,8 @@ console.log("hola");
 const cosas = [
     "manzanas",
     "peras",
+    "taco",
+    "loyonel",
     "avión",
     "fabri",
     "churros",
