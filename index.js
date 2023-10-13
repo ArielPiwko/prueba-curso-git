@@ -6,6 +6,7 @@ const cosas = [
     "fabri",
     "uvas",
     "papas",
+    "apio",
 ]
 
 console.log(cosas);
